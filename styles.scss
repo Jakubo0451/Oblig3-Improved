@@ -17,14 +17,24 @@ section {
   margin: 1.5%;
 }
 
+h1{
+  position: absolute;
+  z-index: 10;
+  font-size: 5vw;
+  color: black;
+  width: 78%;
+  left: 13.8vw;
+  top: 5vw;
+  text-align: center;
+}
 .h2__box > h2 {
   position: absolute;
   z-index: 10;
   font-size: 3vw;
-  color: rgb(37, 34, 34);
+  color: black;
   width: 78%;
   left: 13.8vw;
-  top: 5vw;
+  top: 35vw;
 }
 
 .section__para {
@@ -39,7 +49,7 @@ section {
   word-break: normal;
   z-index: 10;
   font-size: 2.2vw;
-  color: rgb(37, 34, 34);
+  color: black;
   left: 10vw;
   top: 50vw;
 }
@@ -51,8 +61,8 @@ section {
 .section-six__para > p {
   position: absolute;
   font-size: 2.2vw;
-  color: rgb(18, 15, 15);
-  right: -19vw;
+  color: #D4D4D4;
+  right: -21vw;
   top: 6vw;
   width: 50%;
 }
@@ -68,7 +78,7 @@ section {
   left: 70vw;
   top: 9vw;
   width: 25%;
-  color: rgb(18, 15, 15);
+  color: black;
 }
 
 /* All animations */
