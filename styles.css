@@ -40,6 +40,7 @@ h1 {
   width: 78%;
   left: 13.8vw;
   top: 35vw;
+  text-align: center;
 }
 
 .section__para {
@@ -57,7 +58,8 @@ h1 {
   font-size: 3vw;
   color: black;
   left: 10vw;
-  top: 50vw;
+  top: 42vw;
+  text-align: center;
 }
 
 .section-three__para > p {
@@ -68,6 +70,7 @@ h1 {
   color: black;
   left: 5vw;
   top: 100vw;
+  text-align: center;
 }
 
 .section-four__para > p {
@@ -78,6 +81,7 @@ h1 {
   color: black;
   left: 5vw;
   top: 80vw;
+  text-align: center;
 }
 
 .section-five__para > p {
@@ -88,6 +92,7 @@ h1 {
   color: black;
   left: 5vw;
   top: 80vw;
+  text-align: center;
 }
 
 .section-six__para {
@@ -98,24 +103,37 @@ h1 {
   position: absolute;
   font-size: 3vw;
   color: #D4D4D4;
-  right: -21vw;
-  top: 6vw;
+  right: -20vw;
+  top: 1vw;
   width: 50%;
+  text-align: center;
 }
 
 .section-eight__para > p {
   position: absolute;
   font-size: 3vw;
   left: 10vw;
+  text-align: center;
 }
 
 .section-nine__para > p {
   position: absolute;
-  font-size: 3vw;
+  font-size: 2.2vw;
   left: 70vw;
-  top: 9vw;
+  top: 20vw;
   width: 25%;
   color: black;
+  text-align: center;
+}
+
+.section-nine__para2 > p {
+  position: absolute;
+  font-size: 3vw;
+  left: 15vw;
+  top: -2vw;
+  width: 80%;
+  color: black;
+  text-align: center;
 }
 
 /* All animations */
